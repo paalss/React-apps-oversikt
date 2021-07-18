@@ -25,3 +25,8 @@ Sist oppdatert:
 | 18. |[react-app-18-nextjs](https://github.com/paalss/react-app-18-nextjs)                          | Nextjs                   |
 | 19. |[react-app-19-nextjs](https://github.com/paalss/react-app-19-nextjs)                          | Nextjs                   |
 | 20. |  
+
+## Eget repetisjonsprosjekt
+|  | Repo                                               | Tema            |
+|--|----------------------------------------------------|-----------------|
+|  |[web-notepad](https://github.com/paalss/web-notepad)|State og Firebase|
