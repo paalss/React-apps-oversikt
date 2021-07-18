@@ -2,7 +2,6 @@
 Sist oppdatert:  
 18/7
 
-
 | #   | Repo                                                                                         | Tema                     |
 |:---:|----------------------------------------------------------------------------------------------|--------------------------|
 | 1.  |[01-starting-setup](https://github.com/paalss/01-starting-setup)                              | State                    |
@@ -26,7 +25,7 @@ Sist oppdatert:
 | 19. |[react-app-19-nextjs](https://github.com/paalss/react-app-19-nextjs)                          | Nextjs                   |
 | 20. |  
 
-## Eget repetisjonsprosjekt
-|  | Repo                                               | Tema            |
-|--|----------------------------------------------------|-----------------|
-|  |[web-notepad](https://github.com/paalss/web-notepad)|State og Firebase|
+## Egne repetisjonsprosjekt
+| #  | Repo                                               | Tema            |
+|:--:|----------------------------------------------------|-----------------|
+| 1. |[web-notepad](https://github.com/paalss/web-notepad)|State og Firebase|
