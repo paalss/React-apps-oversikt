@@ -1,6 +1,6 @@
 # Webapper lagd i React kurs
 Sist oppdatert:  
-18/7
+26/7
 
 | #   | Repo                                                                                         | Tema                     |
 |:---:|----------------------------------------------------------------------------------------------|--------------------------|
@@ -23,7 +23,7 @@ Sist oppdatert:
 | 17. |[react-webapp-17-authentication](https://github.com/paalss/react-webapp-17-authentication)    | Authentication           |
 | 18. |[react-app-18-nextjs](https://github.com/paalss/react-app-18-nextjs)                          | Nextjs                   |
 | 19. |[react-app-19-nextjs](https://github.com/paalss/react-app-19-nextjs)                          | Nextjs                   |
-| 20. |  
+| 20. |[React-app-20-animations](https://github.com/paalss/React-app-20-animations)                  | Transitions og animations|
 
 ## Egne repetisjonsprosjekt
 | #  | Repo                                               | Tema            |
