@@ -1,6 +1,4 @@
 # Webapper lagd i React kurs
-Sist oppdatert:  
-26/7
 
 | #   | Repo                                                                                         | Tema                     |
 |:---:|----------------------------------------------------------------------------------------------|--------------------------|
@@ -24,8 +22,22 @@ Sist oppdatert:
 | 18. |[react-app-18-nextjs](https://github.com/paalss/react-app-18-nextjs)                          | Nextjs                   |
 | 19. |[react-app-19-nextjs](https://github.com/paalss/react-app-19-nextjs)                          | Nextjs                   |
 | 20. |[React-app-20-animations](https://github.com/paalss/React-app-20-animations)                  | Transitions og animations|
+| 21. |[React-app-21-replace-redux](https://github.com/paalss/React-app-21-replace-redux)            | Redux replacement        |
+<!-- | 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
+| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
+| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
+| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
+| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
+| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
+| 21. |[Reacttttttttttt](httpssssssss)            | Redux        | -->
 
 ## Egne repetisjonsprosjekt
-| #  | Repo                                               | Tema            |
-|:--:|----------------------------------------------------|-----------------|
-| 1. |[web-notepad](https://github.com/paalss/web-notepad)|State og Firebase|
+| #  | Repo                                                   | Tema              |
+|:--:|--------------------------------------------------------|-------------------|
+| 1. |[web-notepad](https://github.com/paalss/web-notepad)    | State og Firebase |
+
+
+## Egne testeprosjekt
+| #  | Repo                                                   | Tema              |
+|:--:|--------------------------------------------------------|-------------------|
+| 1. |[react-testing](https://github.com/paalss/react-testing)|                   |
