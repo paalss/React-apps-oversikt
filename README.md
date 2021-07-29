@@ -2,7 +2,7 @@
 
 | #   | Repo                                                                                         | Tema                     |
 |:---:|----------------------------------------------------------------------------------------------|--------------------------|
-| 1.  |[01-starting-setup](https://github.com/paalss/01-starting-setup)                              | State                    |
+| 1.  |[react-course-webapp-1](https://github.com/paalss/react-course-webapp-1)                      | State                    |
 | 2.  |[react-course-webapp-2](https://github.com/paalss/react-course-webapp-2)                      | Styling                  |
 | 3.  |[react-course-webapp-3](https://github.com/paalss/react-course-webapp-3)                      | State repetisjon         |
 | 4.  |[react-course-webapp-4](https://github.com/paalss/react-course-webapp-4)                      | Hooks                    |
@@ -22,14 +22,16 @@
 | 18. |[react-app-18-nextjs](https://github.com/paalss/react-app-18-nextjs)                          | Nextjs                   |
 | 19. |[react-app-19-nextjs](https://github.com/paalss/react-app-19-nextjs)                          | Nextjs                   |
 | 20. |[React-app-20-animations](https://github.com/paalss/React-app-20-animations)                  | Transitions og animations|
-| 21. |[React-app-21-replace-redux](https://github.com/paalss/React-app-21-replace-redux)            | Redux replacement        |
-<!-- | 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
-| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
-| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
-| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
-| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
-| 21. |[Reacttttttttttt](httpssssssss)            | Redux        |
-| 21. |[Reacttttttttttt](httpssssssss)            | Redux        | -->
+| 21. |[React-app-21-replace-redux](https://github.com/paalss/React-app-21-replace-redux)            | Global state management uten redux |
+<!-- | 22. |[React-app-](httpssssssss)            | Redux        | -->
+<!--
+| 21. |[React-app-22222222222](httpssssssss)            | Redux        |
+| 21. |[React-app-22222222222](httpssssssss)            | Redux        |
+| 21. |[React-app-22222222222](httpssssssss)            | Redux        |
+| 21. |[React-app-22222222222](httpssssssss)            | Redux        |
+| 21. |[React-app-22222222222](httpssssssss)            | Redux        |
+| 21. |[React-app-22222222222](httpssssssss)            | Redux        |
+-->
 
 ## Egne repetisjonsprosjekt
 | #  | Repo                                                   | Tema              |
