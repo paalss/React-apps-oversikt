@@ -23,7 +23,8 @@
 | 19. |[react-app-19-nextjs](https://github.com/paalss/react-app-19-nextjs)                          | Nextjs                   |
 | 20. |[React-app-20-animations](https://github.com/paalss/React-app-20-animations)                  | Transitions og animations|
 | 21. |[React-app-21-replace-redux](https://github.com/paalss/React-app-21-replace-redux)            | Global state management uten redux |
-<!-- | 22. |[React-app-](httpssssssss)            | Redux        | -->
+| 22. |[React-app-22-testing](https://github.com/paalss/React-app-22-testing)                        | Automatic testing        |
+| 23. |[React-app-23-ts](https://github.com/paalss/React-app-23-ts)                                  | Typescript og React      |
 <!--
 | 21. |[React-app-22222222222](httpssssssss)            | Redux        |
 | 21. |[React-app-22222222222](httpssssssss)            | Redux        |
